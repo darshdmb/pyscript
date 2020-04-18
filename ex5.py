@@ -23,4 +23,4 @@ print(f"overall parameters are {my_age}, {my_height}, {my_weight}, {total}")
 
 height_in_inches = round(my_height * 0.39)
 
-print(f"height_in_inches is {height_in_inches}")
+print(f"height_in_inches is {height_in_inches}")    
