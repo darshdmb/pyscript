@@ -26,3 +26,6 @@ w="a"
 u="b"
 
 print(w+u)
+
+print(f" {w}w" * 10)
+print(w *10)
