@@ -18,7 +18,7 @@ print(f"i said {x}")
 print(f"i said '{y}'")
 
 hilarious = "false"
-joke_evaluation = "isn't that a funny joke {}"
+joke_evaluation = "isn't that a funny joke {}" # {} is important to let the formatter know that next variable is to be considered
 
 print(joke_evaluation.format(hilarious))
 
